@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Bachir Boris OUEDRAOGO and welcome to my GitHub page
 <!--
 **ouedraogobachir/ouedraogobachir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
